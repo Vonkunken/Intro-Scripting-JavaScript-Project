@@ -2,6 +2,9 @@
 
 This reposity exists as a backup off my JavaScript project, and as a place to write and store the technical documentation for it, which will follow in this file.
 
+## License
+This application is released under the [MIT License](https://opensource.org/licenses/MIT)
+
 ## Purpose of the Application
 This application is intended to fulfil Requirement 2 of the JavaScript project for the Introductory Scripting Class
 At its most basic level it takes an input from the user, the total number of pizzas to purchase and returns the lowest possible cost of the pizzas based on the sales price for purchasing multiple pizzas.
